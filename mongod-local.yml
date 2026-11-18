@@ -1,0 +1,9 @@
+storage:
+  dbPath: c:\Lost_And_Found\mongo-data
+systemLog:
+  destination: file
+  path: c:\Lost_And_Found\mongo-log\mongod.log
+  logAppend: true
+net:
+  port: 27017
+  bindIp: 127.0.0.1

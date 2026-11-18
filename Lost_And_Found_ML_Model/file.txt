@@ -1,0 +1,21 @@
+lost-found-ml/
+│
+├── app.py
+├── train.py
+├── predict.py
+├── requirements.txt
+│
+├── models/
+│
+├── dataset/
+│   ├── images/
+│   │   ├── train/
+│   │   └── val/
+│   │
+│   ├── labels/
+│   │   ├── train/
+│   │   └── val/
+│   │
+│   └── data.yaml
+│
+└── test_images/
